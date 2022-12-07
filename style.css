@@ -1,0 +1,19 @@
+table{
+    margin: auto;
+    text-align: left;
+}
+body{
+    background-color: #DAE2B6;
+    text-decoration: wavy;
+    text-align: center;
+}
+p{
+    margin: 10px;
+}
+img{
+    border-radius: 25px;
+    width: 200px;
+}
+td{
+    border-spacing: 10px;
+}
