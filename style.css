@@ -1,19 +1,134 @@
-table{
-    margin: auto;
-    text-align: left;
-}
 body{
-    background-color: #DAE2B6;
+    margin: 0;
     text-decoration: wavy;
     text-align: center;
-}
-p{
-    margin: 10px;
 }
 img{
     border-radius: 25px;
     width: 200px;
 }
-td{
-    border-spacing: 10px;
+ul{
+    display: inline-block;
+    text-align: left;
+    margin: auto;
 }
+.top{
+    margin-bottom: 0;
+    background-color: #EAF6F6; 
+    padding-top: 200px;    
+}
+.middle{
+    padding-top: 50px;
+    width: 450px;
+    margin: 20px auto 50px auto;
+}
+.bottom{
+    background-color: #66BFBF;
+    height: 100px;
+}
+.usinfo{
+    color: beige;
+    padding-top: 20px;
+}
+h1{
+    color: #66BFBF;
+    font-family: 'Carattere', cursive;
+    font-size: 62pt;
+    margin-top: 0;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 32;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    width: 100px;
+}
+.secondcloud{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+    width: 100px;
+}
+.big{
+    height: 300px;
+    width: 500px ;
+    position: relative;
+    bottom: 0;
+}
+.my{
+    height: 150px;
+    width: 150px ;
+    border-radius: 100%;
+}
+.helloo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62;
+    font-weight: bold;
+}
+hr{
+    border-color: #66BFBF;
+    border-style: none none dotted none;
+    border-width: 5px;
+    margin-top: 30px;
+    width: 100px;
+}
+h3{
+    color: #11999E;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.exp{
+    float: left;
+    margin: auto;
+}
+.edu{
+    float: left;
+    margin: auto;
+}
+.secondpara{
+    margin-top: 0px;
+    text-align: left;
+}
+table{
+    margin: auto;
+}
+.info{
+    font-weight: bolder;
+    margin: 100px auto 10px auto;
+}
+.cont{
+    padding-left: 200px;
+}
+.aa{
+    margin-top: 0px;
+
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
